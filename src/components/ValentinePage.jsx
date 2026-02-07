@@ -89,7 +89,7 @@ export default function ValentinePage() {
         animate={{ opacity: 1 }}
         transition={{ duration: 0.5 }}
         className="fixed inset-0 z-50 flex flex-col items-center justify-center font-hand p-4 text-center"
-        style={backgrounds.grid} // Usamos el fondo de puntos para el final también
+        style={backgrounds.grid} //x Usamos el fondo de puntos para el final también
       >
         <div className="absolute inset-0 overflow-hidden pointer-events-none">
           <div className="absolute top-10 left-10 text-[#c05f5f]/20 text-8xl animate-pulse">❤️</div>
@@ -107,7 +107,7 @@ export default function ValentinePage() {
             className="w-full max-w-xs md:max-w-md rounded-2xl border-4 border-white/20"
           />
         </motion.div>
-        <div className="mt-8 relative z-10">
+        <div className="mt-2 relative z-10">
           <h1 className="text-6xl md:text-8xl font-bold text-[#c05f5f] drop-shadow-lg mb-4">¡Siii!</h1>
           <p className="text-2xl md:text-4xl text-white font-bold">Yeeee, ahora tenemos que casarnos</p>
         </div>
