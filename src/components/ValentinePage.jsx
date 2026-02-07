@@ -25,7 +25,7 @@ export default function ValentinePage() {
     "https://media.tenor.com/P285-2vH5FYAAAAi/alone-lonely.gif",
     "https://media.tenor.com/B07WYmzMgQwAAAAi/angry-%D0%B7%D0%B2%D0%BE%D0%B9-%D1%85%D0%BE%D0%BC%D1%8F%D0%BA.gif",
     "https://media1.tenor.com/m/Ww2rTFH4VwIAAAAd/sad-hamster-sadhamster.gif",
-    "../../public/images/wawas.jpeg",
+    "/images/wawas.jpeg",
     "https://media.tenor.com/OIW8NZ9QsBgAAAAi/att.gif",
     "https://media.tenor.com/usAx4sFHmRwAAAAi/chibi-yhad.gif",
     "https://media.tenor.com/pLDe0NLTTQgAAAAi/sad.gif",
